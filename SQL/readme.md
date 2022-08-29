@@ -1,1 +1,1 @@
-Projects for SQL in patika.dev
+Projects in the SQL course on Patika.dev
