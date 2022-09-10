@@ -8,6 +8,7 @@
     );
     
 2-Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
+
     insert into MOCK_DATA (id, name, birthday, email) values (1, 'Lovell', '8/17/2003', 'lkruschev0@netvibes.com');
     insert into MOCK_DATA (id, name, birthday, email) values (2, 'Brittan', '11/18/2013', 'bingon1@auda.org.au');
     insert into MOCK_DATA (id, name, birthday, email) values (3, 'Kittie', '6/10/2011', 'kwashington2@etsy.com');
