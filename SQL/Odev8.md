@@ -62,6 +62,7 @@
     
     
 3-Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
+
     Update set
     name = 'Franchis',
     birthday = '4/3/2001',
